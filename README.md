@@ -8,7 +8,10 @@ Performed an analysis and presented the current case of ocean acidification and 
 
 ![image](https://github.com/GlennTatum/billion-oyster-project-symposium/assets/84031833/b465f6af-40dd-4292-b261-09339aeab781)
 
-
-**Symposium Poster**
+## Symposium Poster (PDF)
 
 https://github.com/GlennTatum/billion-oyster-project-symposium/blob/main/SymposiumGlennTatum.pdf
+
+## Gallery
+
+![image](https://github.com/GlennTatum/billion-oyster-project-symposium/blob/main/presentation.png?raw=true)
